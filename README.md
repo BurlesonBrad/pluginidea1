@@ -1,7 +1,7 @@
 # pluginidea1
 My feeble attempt to make a more advanced plugin
 
-Using Treehouse's lesson on Creating a plugin, perhaps using metabox.io, and using typer.js, I want to make a plugin.  Here's the details:
+Using Treehouse's lesson on Creating a plugin, perhaps using http://metabox.io, and using typer.js, I want to make a plugin.  Here's the details:
 
 1) Text field prompts for the sentences / text 
 2) Prompts for the next line ~or~
